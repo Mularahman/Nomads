@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\praktikum\\pertemuan2"
+		},
+		{
+			"path": "..\\..\\..\\..\\praktikum\\pertemuan 3"
+		},
+		{
+			"path": "..\\..\\..\\..\\praktikum\\pertemuan 1"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Nomads"
+	}
+}
